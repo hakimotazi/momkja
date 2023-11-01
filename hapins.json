@@ -3,7 +3,7 @@
       
           "siteurl" : "https://www.youtube.com",
 
-          "network" : ""
+          "network" : "webview"
 
     }
   
