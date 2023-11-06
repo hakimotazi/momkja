@@ -1,52 +1,10 @@
-[
-  {
-    "title": "USA",
-    "drawable": "",
-    "submenu": "",
-    "tabs": [
-      {
-        "title": "Home",
-        "provider": "webview",
-        "arguments": [
-          "https://www.lahalle.com/",
-          "deals"
-        ]
-      }
+{
+  "webview": {
+      
+          "siteurl" : "https://www.caroll.com/",
+
+          "network" : ""
+
+    }
   
-    ],
-    "iap": false
-  },
-  {
-    "title": "Other Countries",
-    "drawable": "",
-    "submenu": "",
-    "tabs": [
-      {
-        "title": "Top Films and series",
-        "image": "",
-        "provider": "webview",
-        "arguments": [
-          "",
-          "deals"
-        ]
-      }
-    ],
-    "iap": false
-  },
-  {
-    "title": "Settings",
-    "drawable": "",
-    "submenu": "Other",
-    "tabs": [
-      {
-        "title": "",
-        "provider": "custom",
-        "arguments": [
-          "",
-          "fragment"
-        ]
-      }
-    ],
-    "iap": false
   }
-]
