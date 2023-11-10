@@ -1,9 +1,9 @@
 {
   "webview": {
       
-          "siteurl" : "https://www.caroll.com/",
+          "siteurl" : "https://www.blancheporte.fr/",
 
-          "network" : "webview"
+          "network" : "wordpress"
 
     }
   
