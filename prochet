@@ -1,0 +1,10 @@
+{
+  "webview": {
+      
+          "siteurl" : "https://www.caroll.com/",
+
+          "network" : "webview"
+
+    }
+  
+  }
