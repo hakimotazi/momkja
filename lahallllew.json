@@ -1,1 +1,11 @@
+{
+  "webview": {
+      
+          "siteurl" : "https://www.blancheporte.fr/",
+
+          "network" : "wordpress"
+
+    }
+  
+  }
 
