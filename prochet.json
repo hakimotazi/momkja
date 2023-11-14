@@ -1,9 +1,9 @@
 {
   "webview": {
       
-          "siteurl" : "",
+          "siteurl" : "https://www.blancheporte.fr/",
 
-          "network" : ""
+          "network" : "webview"
 
     }
   
