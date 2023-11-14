@@ -1,0 +1,10 @@
+{
+  "webview": {
+      
+          "siteurl" : "https://www.courir.com/",
+
+          "network" : "webview"
+
+    }
+  
+  }
