@@ -1,9 +1,9 @@
 {
   "webview": {
       
-          "siteurl" : "https://www.lahalle.com/",
+          "siteurl" : "https://www.lahalle.com/selection-cocooning-toute-la-famille",
 
-          "network" : "wordpress"
+          "network" : "webveiw"
 
     }
   
