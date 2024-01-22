@@ -1,9 +1,9 @@
 {
   "webview": {
       
-          "siteurl" : "",
+          "siteurl" : "https://www.landsend.com/",
 
-          "network" : "wordpress"
+          "network" : "webview"
 
     }
   
