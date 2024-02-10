@@ -1,9 +1,9 @@
 {
   "webview": {
       
-          "siteurl" : "",
+          "siteurl" : "https://clipchamp.com/",
 
-          "network" : "wordpress"
+          "network" : "webview"
 
     }
   
