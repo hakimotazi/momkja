@@ -1,1 +1,10 @@
-cutrloo
+{
+  "webview": {
+      
+          "siteurl" : "",
+
+          "network" : "wordpress"
+
+    }
+  
+  }
